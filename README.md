@@ -5,7 +5,6 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
@@ -29,12 +28,6 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 pip install -r requirements.txt
 ```
 
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
